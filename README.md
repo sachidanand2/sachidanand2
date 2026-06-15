@@ -1,415 +1,247 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sachidanand%20S&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Software%20Engineer%20%7C%20AI%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Cybersecurity+Analyst+%7C+SOC+Aspirant;Software+Developer+%7C+Python+Automation;AI+%26+ML+Researcher+%7C+Conference+Presenter;Ethical+Hacker+in+Training+%7C+CTF+Enthusiast;Open+Source+Contributor+%7C+Builder" alt="Typing SVG" />
+<a href="https://github.com/sachidanand-s">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachidanand%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Analyst%20%7C%20Python%20Developer%20%7C%20SOC%20Enthusiast&descAlignY=62&descSize=16" />
 </a>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sachidanand+S+%F0%9F%91%8B;Cybersecurity+%7C+Python+%7C+SOC+Operations;10%2B+Industry+Certifications+%F0%9F%8F%86;International+Conference+Presenter+%F0%9F%8E%A4;Building+a+Safer+Digital+World+%F0%9F%94%90" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-
-![B.Sc. Computer Science](https://img.shields.io/badge/B.Sc._Computer_Science-2026-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Bharathiar University](https://img.shields.io/badge/Bharathiar_University-Affiliated-4F46E5?style=for-the-badge&logo=university&logoColor=white)
-![International Conference](https://img.shields.io/badge/International_Conference-AI_%26_Data_Science_2025-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍_Coimbatore,_Tamil_Nadu,_India-Remote_Ready-312E81?style=flat-square&logoColor=white)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sachidanand-s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachidanand-s)
-[![Email](https://img.shields.io/badge/Email-sp.sachinsasikumar@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp.sachinsasikumar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@sachidanand--s-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachidanand-s)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sachidanand-s&color=7C3AED&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/sachidanand-s?color=4F46E5&style=flat-square&logo=github&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/sachidanand-s?color=6D28D9&style=flat-square&logo=github&label=Stars)
-
+  <img src="https://komarev.com/ghpvc/?username=sachidanand-s&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sachidanand-s?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20SOC-70a5fd?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 ---
 
-## ◈ About
+## 👨‍💻 About Me
 
-```yaml
-name        : Sachidanand S
-role        : Cybersecurity Analyst · Software Developer · AI Researcher
-location    : Coimbatore, Tamil Nadu, India
-available   : Immediate · Remote · Hybrid
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class Sachidanand:
+    def __init__(self):
+        self.name           = "Sachidanand S"
+        self.username       = "sachidanand-s"
+        self.location       = "Coimbatore, Tamil Nadu, India 🇮🇳"
+        self.email          = "sp.sachinsasikumar@gmail.com"
+        self.degree         = "B.Sc. Computer Science (2026)"
+        self.college        = "Bishop Ambrose College, Bharathiar University"
+
+        self.stack = {
+            "security":   ["Wireshark", "Nmap", "Kali Linux", "OWASP Top 10"],
+            "languages":  ["Python", "C", "C++", "HTML5", "CSS3"],
+            "databases":  ["MongoDB Atlas"],
+            "automation": ["UiPath RPA", "Salesforce Agentforce"],
+            "tools":      ["Git", "GitHub", "VS Code", "Linux CLI"],
+            "networking": ["TCP/IP", "DNS", "DHCP", "OSI Model"],
+        }
+
+        self.currently_learning = [
+            "EC-Council CEH",
+            "CompTIA Security+",
+            "Ethical Hacking (Home Lab)",
+            "SIEM & Log Analysis",
+        ]
+
+        self.fun_fact = "I presented LLM vs SLM research at an international"  \
+                        " AI & Data Science conference — as an undergrad! 🎤"
+
+    def motto(self) -> str:
+        return "Secure today, scale tomorrow. 🔐"
+
+me = Sachidanand()
+print(me.motto())
 ```
 
-Final-year B.Sc. Computer Science undergraduate at Bishop Ambrose College (Bharathiar University, 2026) with a demonstrated track record spanning cybersecurity fundamentals, software engineering internships, and peer-reviewed AI research. Presented original comparative research on Large Language Models vs Small Language Models at an international AI & Data Science Conference (2025) — a rare distinction at the undergraduate level.
-
-Brings hands-on experience in Python scripting and automation, C/C++ debugging, Git-based version control, and agile software delivery from a production internship. Holds 10+ industry-recognised certifications across cybersecurity, cloud, RPA automation, and AI from Microsoft, Salesforce, MongoDB, UiPath, and Infosys. Currently building a personal cybersecurity home lab and pursuing EC-Council CEH / CompTIA Security+ certification readiness.
-
-**Open To**
-- Entry-level roles in **Cybersecurity Analysis**, **SOC Operations**, **IT Support Engineering**
-- Remote-first or Coimbatore-based positions with top-tier IT organisations
-- Research collaborations in AI safety, threat intelligence, or network security
+<br clear="right"/>
 
 ---
 
-## ◈ Tech Stack
+## 🛠️ Tech Stack & Tools
+
+**🔐 Cybersecurity**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**☁️ Cloud & Automation**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**🔧 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**🌐 Networking**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0070C0?style=flat-square&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-336791?style=flat-square&logo=cloudflare&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI%20Model-FF6600?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
-
-### Frontend & Web
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-### Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-
-### Cloud, DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali&theme=dark" />
-
-### Automation & CRM
-
-<img src="https://skillicons.dev/icons?i=salesforce&theme=dark" />
-
+  <a href="https://github.com/sachidanand-s">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachidanand-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sachidanand's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/sachidanand-s">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachidanand-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
 
-## ◈ AI / ML Expertise
+## 🔥 Streak Stats
 
 <div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Large Language Models | ◆◆◆◇◇ | GPT-4, Llama 2, Phi-2 — comparative performance & deployment analysis |
-| Small Language Models | ◆◆◆◇◇ | Phi-2 benchmarking, enterprise applicability, resource-constrained inference |
-| Generative AI Fundamentals | ◆◆◆◆◇ | Microsoft-certified; prompt engineering, Copilot integration |
-| NLP Benchmarking | ◆◆◆◇◇ | MMLU, HellaSwag, academic benchmark interpretation |
-| Agentic Automation | ◆◆◆◇◇ | UiPath RPA Agentic Automation, Salesforce Agentforce |
-| AI Research & Presentation | ◆◆◆◆◇ | Peer-reviewed conference presentation, HuggingFace ecosystem |
-
+  <img src="https://streak-stats.demolab.com?user=sachidanand-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
 
-## ◈ Featured Projects
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sachidanand-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachidanand-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience
 
 <details>
-<summary><b>◈ Python-Based Port Scanner & Network Recon Tool</b></summary>
+<summary><b>🏢 Software Developer Intern — Coimbatore-based IT Firm &nbsp;|&nbsp; Jan 2025 – Apr 2025 &nbsp;|&nbsp; Coimbatore, India</b></summary>
 
 <br/>
 
-A lightweight, socket-based network reconnaissance tool built in Python that scans a target IP for open ports across the 1–1024 range, identifies running services via banner grabbing, and exports a structured CSV report for offline analysis. Designed and tested in an isolated local lab virtual machine environment, following responsible disclosure principles.
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+> ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+> ![CI](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python 3, Socket, CSV, Subprocess |
-| **Scope** | Ports 1–1024, service identification, CSV export |
-| **Performance** | Sequential scan with timeout handling for reliability |
-| **Security** | Lab-isolated VM environment; no production targets |
-| **Impact** | Foundational tool for CEH/Security+ home lab practice |
-| **Repository** | [github.com/sachidanand-s/port-scanner](https://github.com/sachidanand-s/port-scanner) |
-
-</div>
-
-This project was built to develop practical proficiency in Python socket programming and network enumeration concepts aligned with CompTIA Security+ and EC-Council CEH lab objectives. It demonstrates the ability to translate low-level networking theory (TCP/IP, port states, service fingerprinting) into working security tooling — a core competency expected in SOC analyst and junior penetration tester roles.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-4F46E5?style=flat-square&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6D28D9?style=flat-square&logo=hackthebox&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-312E81?style=flat-square&logo=kalilinux&logoColor=white)
+- 🤝 Collaborated with a cross-functional team of **4+ engineers** to design, develop, and QA software modules — contributing to on-time delivery of **2 product sprints**.
+- 🐛 Identified and resolved **15+ bugs** across Python and C++ codebases, reducing issue backlog by **~30%** over a 6-week period using Git-based version control.
+- ⚡ Implemented agile best practices including daily standups, sprint planning, and code reviews — improving personal code review turnaround time by **40%**.
+- 🧪 Gained hands-on CI experience; wrote unit tests and documented code changes, improving team onboarding clarity.
 
 </details>
 
 ---
 
-<details>
-<summary><b>◈ LLM vs SLM — Research Presentation (International Conference 2025)</b></summary>
-
-<br/>
-
-Original peer-reviewed research comparing Large Language Models (LLM) and Small Language Models (SLM) across performance benchmarks, deployment constraints, hardware requirements, and enterprise applicability. Presented at an International AI & Data Science Conference (2025) as the sole undergraduate presenter in the session, gaining direct exposure to industry researchers and practitioners working on frontier AI systems.
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | GPT-4, Phi-2, Llama 2, HuggingFace, Academic Benchmarks |
-| **Scope** | Multi-model comparative analysis across enterprise use cases |
-| **Benchmarks** | MMLU, HellaSwag — accuracy, inference cost, deployment footprint |
-| **Security** | Data governance and on-premise SLM deployment considerations |
-| **Impact** | Peer-reviewed acceptance; only undergraduate presenter in session |
-| **Conference** | International AI & Data Science Conference, 2025 |
-
-</div>
-
-The research addressed a critical decision point for enterprise AI adoption: the trade-off between frontier capability (LLMs) and deployment efficiency (SLMs). Findings highlighted scenarios where Phi-2 and similarly compact models outperform GPT-4 class systems on latency-sensitive, resource-constrained inference tasks — a conclusion directly relevant to edge computing and secure on-premise AI deployments.
-
-<br/>
-
-![Research](https://img.shields.io/badge/Research-7C3AED?style=flat-square&logo=googlescholar&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-4F46E5?style=flat-square&logo=huggingface&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI/ML-6D28D9?style=flat-square&logo=openai&logoColor=white)
-![Conference](https://img.shields.io/badge/Conference_2025-312E81?style=flat-square&logo=academia&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary><b>◈ Personal Cybersecurity Home Lab (In Progress — 2025–Present)</b></summary>
-
-<br/>
-
-A self-directed, virtualized cybersecurity home lab built on VirtualBox with a Kali Linux attacker node and a Windows Server target VM. Designed to mirror real-world penetration testing and SOC analyst scenarios, covering ethical hacking techniques, packet-level traffic analysis with Wireshark, and network enumeration with Nmap — all within an air-gapped, isolated environment.
-
-<div align="center">
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | VirtualBox, Kali Linux, Windows Server, Wireshark, Nmap |
-| **Scope** | Attacker/defender VM topology with isolated networking |
-| **Security** | Air-gapped virtualised environment; no external exposure |
-| **Focus Areas** | Ethical hacking, traffic analysis, network enumeration |
-| **Objective** | CEH / CompTIA Security+ lab component readiness |
-| **Status** | Active — ongoing skill development |
-
-</div>
-
-This lab operationalises theoretical knowledge from certifications and coursework into hands-on attack simulation and traffic forensics. Current exercises include ARP scanning, port enumeration, banner grabbing, and Wireshark PCAP analysis — building the practical SOC analyst toolkit required for Tier 1 incident response roles.
-
-<br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-7C3AED?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-4F46E5?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-6D28D9?style=flat-square&logo=nmap&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-312E81?style=flat-square&logo=virtualbox&logoColor=white)
-
-</details>
-
----
-
-## ◈ Experience
-
-### Software Developer Intern — Coimbatore-based IT Firm *(NDA)*
-`Jan 2025 – Apr 2025` · Coimbatore, India · On-site
-
-Embedded within a cross-functional engineering team of 4+ developers, contributing to active product sprint delivery across Python and C++ codebases. Operated under full agile methodology including daily standups, sprint planning, and peer code review cycles in a professional software development environment.
-
-- Collaborated with 4+ engineers to design, develop, and QA software modules, contributing to on-time delivery across 2 product sprints
-- Identified and resolved **15+ bugs** across Python and C++ codebases, reducing the open issue backlog by approximately **30%** over 6 weeks using Git-based version control
-- Improved personal code review turnaround time by **40%** through disciplined adoption of agile best practices including sprint planning and structured standups
-- Gained production CI exposure; authored unit tests and maintained code change documentation, directly improving team onboarding clarity
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4F46E5?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-312E81?style=flat-square&logo=jira&logoColor=white)
-![CI](https://img.shields.io/badge/CI_Practices-7C3AED?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### Freelance Graphic Designer & Video Editor
-`Ongoing` · Remote
-
-Delivered creative production work for 5+ independent clients spanning 3D animation, motion graphics, and deadline-driven video editing. Managed full project lifecycle from brief to delivery.
-
-![After Effects](https://img.shields.io/badge/Motion_Graphics-7C3AED?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![3D Animation](https://img.shields.io/badge/3D_Animation-4F46E5?style=flat-square&logo=blender&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video_Editing-6D28D9?style=flat-square&logo=adobepremierepro&logoColor=white)
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| 🏛 International AI & Data Science Conference (2025) | Sole undergraduate presenter in the session; peer-reviewed LLM vs SLM research; direct exposure to industry researchers |
-| 🔬 Original AI Research — LLM vs SLM | Comparative analysis across MMLU, HellaSwag benchmarks; enterprise deployment applicability findings |
-| 🛡 Cybersecurity Home Lab | Self-directed lab setup with Kali Linux, Wireshark, Nmap in a virtualised attacker/target topology |
-| 🌐 NSS Residential Camp — 7 Days | Led coordination of awareness programs and group activities for 50+ participants |
-| 🏆 Inter-College Technical Events | Competed in technical quizzes, coding challenges, and poster design competitions across Coimbatore |
-| 🎨 Official College Fest Visuals | Designed event visuals used officially for 2 college festivals |
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🔍 Python Port Scanner & Network Recon Tool](https://github.com/sachidanand-s/port-scanner) | `Python 3` `Socket` `CSV` `Subprocess` | Scans ports 1–1024 on target IPs, identifies running services, and exports results to CSV; tested on local lab VM |
+| [🤖 LLM vs SLM Analysis — Research Presentation](https://github.com/sachidanand-s) | `GPT-4` `Phi-2` `Llama 2` `HuggingFace` `MMLU` `HellaSwag` | Peer-reviewed comparative study on LLMs vs SLMs — performance benchmarks, deployment constraints, enterprise applicability; presented at **International AI & Data Science Conference 2025** |
+| [🛡️ Personal Cybersecurity Home Lab *(In Progress)*](https://github.com/sachidanand-s) | `VirtualBox` `Kali Linux` `Windows Server` `Wireshark` `Nmap` | Virtualized attacker/target lab environment; practicing ethical hacking, traffic analysis & enumeration; preparing for **CEH / Security+** |
 
 </div>
 
 ---
 
-## ◈ Certifications
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
-### Microsoft
-
-![Learn AI and Generative AI Basics](https://img.shields.io/badge/Learn_AI_%26_Generative_AI_Basics-Microsoft-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
-![Describe Cybersecurity](https://img.shields.io/badge/Describe_Concept_of_Cybersecurity-Microsoft-4F46E5?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Get_Started_with_Microsoft_Copilot-Microsoft-6D28D9?style=for-the-badge&logo=microsoftbing&logoColor=white)
-
-### Salesforce
-
-![Salesforce Agentforce Champion](https://img.shields.io/badge/Agentforce_Champion-Salesforce_Trailhead-7C3AED?style=for-the-badge&logo=salesforce&logoColor=white)
-
-### MongoDB
-
-![MongoDB AI Fundamentals](https://img.shields.io/badge/MongoDB_%26_AI_Fundamentals-MongoDB_University-4F46E5?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Infosys
-
-![OOP Python](https://img.shields.io/badge/Object_Oriented_Programming_in_Python-Infosys_Springboard-6D28D9?style=for-the-badge&logo=python&logoColor=white)
-
-### UiPath
-
-![Agentic Automation](https://img.shields.io/badge/Agentic_Automation-UiPath_Academic_Alliance-312E81?style=for-the-badge&logo=uipath&logoColor=white)
-
-### Wadhwani Foundation
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving_%26_Innovation-Wadhwani_Foundation-7C3AED?style=for-the-badge&logoColor=white)
-![Self Presentation](https://img.shields.io/badge/Self_Presentation_%26_Professional_Communication-Wadhwani_Foundation-4F46E5?style=for-the-badge&logoColor=white)
+| 🎖️ | Achievement | Details |
+|:---:|:------------|:--------|
+| 🎤 | **International AI & Data Science Conference (2025)** | Only undergraduate presenter in the session; delivered peer-reviewed LLM vs SLM research to industry researchers |
+| 🏅 | **Learn AI & Generative AI Basics** | Microsoft Certified |
+| 🔐 | **Describe the Concept of Cybersecurity** | Microsoft Certified |
+| 🤖 | **Get Started with Microsoft Copilot** | Microsoft Certified |
+| 🐍 | **Object Oriented Programming using Python** | Infosys Springboard |
+| 🍃 | **MongoDB & AI Fundamentals** | MongoDB University |
+| ☁️ | **Salesforce Agentforce Champion** | Salesforce Trailhead |
+| 🔄 | **Agentic Automation** | UiPath Academic Alliance |
+| 💡 | **Problem Solving and Innovation** | Wadhwani Foundation |
+| 🗣️ | **Self-Presentation & Professional Communication** | Wadhwani Foundation |
+| 🌿 | **NSS Volunteer — 7-Day Residential Camp** | Led awareness programs & group activities for **50+ participants** |
+| 🎨 | **Inter-College Technical Events** | Competed in quizzes, coding challenges & poster design; designed visuals for **2 college fests** |
+| 🖌️ | **Freelance Graphic Designer & Video Editor** | Delivered 3D animation, motion graphics & design work for **5+ clients** |
 
 </div>
 
 ---
 
-## ◈ Coding Profiles
+## 🎓 Education
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-sachidanand--s-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sachidanand-s)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sachidanand--s-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sachidanand-s)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-sachidanand--s-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sachidanand-s)
-[![CodeChef](https://img.shields.io/badge/CodeChef-sachidanand--s-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sachidanand-s)
+| Degree | Institution | Year | Board / Affiliation |
+|:-------|:------------|:----:|:--------------------|
+| 🎓 B.Sc. Computer Science | Bishop Ambrose College, Coimbatore | 2023 – 2026 *(Expected)* | Bharathiar University |
+| 📘 HSC — Science Stream | Theethipalayam Govt. Higher Secondary School, Coimbatore | 2022 – 2023 | Tamil Nadu State Board |
+| 📗 SSLC (Class X) | Sri Sarguru Matriculation School, Coimbatore | 2020 – 2021 | Matriculation Board |
 
 </div>
 
 ---
 
-## ◈ GitHub Analytics
+## 🧠 Currently Learning
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachidanand-s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=4F46E5&text_color=C4B5FD&ring_color=6D28D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachidanand-s&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=C4B5FD" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachidanand-s&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=4F46E5&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sachidanand-s&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachidanand-s&theme=tokyo-night&bg_color=0D0D1A&color=7C3AED&line=4F46E5&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sachidanand-s/sachidanand-s/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-## ◈ Current Focus
-
-```yaml
-# — Sachidanand S · Active Focus · 2025–2026 —
-
-learning:
-  - EC-Council CEH (Certified Ethical Hacker) — Lab & Exam Prep
-  - CompTIA Security+ — Domain Study & Practice Tests
-  - Wireshark Deep Packet Inspection & PCAP Analysis
-  - Nmap Advanced Scripting Engine (NSE)
-  - OWASP Top 10 — Hands-on Exploitation in Home Lab
-
-building:
-  - Personal Cybersecurity Home Lab (Kali + Windows Server + VirtualBox)
-  - Python automation scripts for log parsing & alert triage
-  - GitHub portfolio with documented security tooling projects
-
-exploring:
-  - SIEM fundamentals — Splunk & Elastic Stack (beginner)
-  - Threat Intelligence feeds & IOC management
-  - Cloud Security concepts (Microsoft Azure Security)
-  - CTF challenges on TryHackMe & HackTheBox
-
-open_to:
-  - Cybersecurity Analyst · Tier 1 SOC Operations
-  - IT Support Engineering · Endpoint & Network Security
-  - Python Automation · Security Scripting Roles
-  - Remote-first or Coimbatore-based opportunities
-  - Research collaborations in AI security & threat detection
+```
+🔐 CEH (EC-Council)        →  Footprinting · Scanning · Exploitation · Post-Exploitation
+🛡️  CompTIA Security+       →  Threats · Cryptography · Identity & Access · Network Security
+🏠 Home Lab (VirtualBox)   →  Kali Linux · Windows Server · Wireshark · Nmap · Metasploit
+📊 SIEM & Log Analysis     →  Splunk Fundamentals · Log Correlation · Incident Detection
+🤖 AI / LLM Research       →  HuggingFace · Prompt Engineering · Benchmark Evaluation
 ```
 
 ---
 
-## ◈ Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-sp.sachinsasikumar@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp.sachinsasikumar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachidanand-s)
-[![GitHub](https://img.shields.io/badge/GitHub-@sachidanand--s-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachidanand-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-312E81?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sachidanand-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachidanand%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachidanand-s)
+[![GitHub](https://img.shields.io/badge/GitHub-sachidanand--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sachidanand-s)
+[![Email](https://img.shields.io/badge/Email-sp.sachinsasikumar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sp.sachinsasikumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-38bdae?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
----
-
 <div align="center">
-
-*"Security is not a product, but a process — and every commit, every scan, every packet captured is a step toward mastery."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
